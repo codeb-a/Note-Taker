@@ -1,7 +1,11 @@
 # Note Taker
 ![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-An application that allows your to easily take notes for daily use.
+An application that allows you to easily take notes for daily use.
+
+![](images/note-taker%20pic2.png)
+![](images/note-taker%20pic1.png)
+
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
